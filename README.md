@@ -1,5 +1,10 @@
-Hi 👋 My name is Mark Richards
-==============================* 🌍  I'm based in Canberra ACT / Brisbane QLD* 🖥️  See my portfolio at [Dev1](http://www.dev1.com)* ✉️  You can contact me at [mark@dev1.com](mailto:mark@dev1.com)* 🚀  I'm currently working on [OnTheTaps](http://onthetaps.com)* 🧠  I'm learning Salesforce LWC / Omniscript / Apex
+I'm Mark Richards
+==============================
+* 🌍  I'm based in Canberra ACT / Brisbane QLD
+* 🖥️  See my portfolio at [Dev1](http://www.dev1.com)
+* ✉️  You can contact me at [mark@dev1.com](mailto:mark@dev1.com)
+* 🚀  I'm currently working on [OnTheTaps](http://onthetaps.com)
+* 🧠  I'm learning Salesforce LWC / Omniscript / Apex
 
 ### Skills
 
